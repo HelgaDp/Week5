@@ -14,7 +14,7 @@
     border-right-color: rgba(255, 255, 255, 0.1);
       }
       .cb1 {
-        background-color: rgba(255, 255, 255, 0);
+        background-color: #73155a;
         margin-top: 72px;
         margin-bottom: 70px;
         margin-left: -30px;
@@ -24,8 +24,8 @@
        
       }
       .cb2 {
-        background: linear-gradient(to right bottom, rgba(255, 255, 255,0.5), rgba(255, 255,255,0.3)) ;
-        color: black;
+        background: color: #91898f;
+       color: #73155a;
         border-radius: 1rem;
         border: 1px solid transparent;
         margin-top: 20px;
