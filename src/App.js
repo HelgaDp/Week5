@@ -7,11 +7,11 @@ export default function App() {
   
   <div className='App'>
     <div className='container'>
-          <Weather defaultCity="Kyiv"/>
+          <Weather defaultCity="Dnipro"/>
           <footer>
             This project was coded by {" "} 
-            <a className='Link-Color' href='https://jocular-choux-52b0c5.netlify.app/' target="_blank" rel="noreferrer">Tetiana Matvienko</a>{" "}and is{" "}
-            <a className='Link-Color' href='https://github.com/MomTanya/react-weather-22' target="_blank" rel="noreferrer">open-soursed on GitHub</a>
+            <a className='Link-Color' href='https:https://velvety-douhua-e457d9.netlify.app/' target="_blank" rel="noreferrer">Olga Petrunenko</a>{" "}and is{" "}
+            <a className='Link-Color' href='https://github.com/HelgaDp/Week5' target="_blank" rel="noreferrer">open-soursed on GitHub</a>
           </footer>
      </div>
   </div>
