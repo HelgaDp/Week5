@@ -1,0 +1,12 @@
+.App {
+    max-width: 660px;
+    margin: 30px auto;
+    
+}
+.App footer {
+    font-size: 14px;
+    margin: 10px 0;
+}
+.Link-Color {
+    color: #7081b3;
+}
