@@ -10,7 +10,7 @@ export default function App() {
           <Weather defaultCity="Kyiv"/>
           <footer>
             This project was coded by {" "} 
-            <a className='Link-Color' href='https://jocular-choux-52b0c5.netlify.app/' target="_blank" rel="noreferrer">Tetiana Matvienko</a>{" "}and is{" "}
+            <a className='Link-Color' href='https://jocular-choux-52b0c5.netlify.app/' target="_blank" rel="noreferrer">Olga Petrunenko</a>{" "}and is{" "}
             <a className='Link-Color' href='https://github.com/MomTanya/react-weather-22' target="_blank" rel="noreferrer">open-soursed on GitHub</a>
           </footer>
      </div>
