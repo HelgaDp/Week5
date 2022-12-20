@@ -31,12 +31,12 @@
     font-weight: 100;
     line-height: 19px;
     list-style: none;
-    
+    color: #73155a;
   }
   
   .Weather .temperature {
     font-weight: bold;
-    color: #73155a;
+   color: #73155a;
     font-size: 64px;
     line-height: 64px;
     margin-left: 5px;
