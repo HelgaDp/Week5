@@ -4,16 +4,16 @@
     padding: 16px;
     border-radius: 6px;
     color: #241f2a;
-    background-image: url(https://images.unsplash.com/photo-1496450681664-3df85efbd29f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80) ;
+    background-image: url(https://ru.freepik.com/free-photo/cloud-and-blue-sky_11996350.htm) ;
     background-size: cover;
   }
   .btn:hover {
-    background-color: #584c66;
+    background-color: #3e38d9;
   }
   
   .Weather h1 {
     
-    color:  #584c66;
+    color: #3e38d9;
     font-size: 30px;
     font-weight: 100;
     margin: 30px 0 0 0;
