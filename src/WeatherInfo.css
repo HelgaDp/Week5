@@ -5,14 +5,7 @@
     
     border-radius: 1rem;
     border: 1px solid transparent;
-    backdrop-filter: blur(1rem);
-    box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0,0,0.5);
-
-    border-top-color: rgba(255, 255, 255, 0.5);
-    border-left-color:rgba(255, 255, 255, 0.5);
-    border-bottom-color: rgba(255, 255, 255, 0.1);
-    border-right-color: rgba(255, 255, 255, 0.1);
-      }
+   
       .cb1 {
         background-color: #73155a;
         margin-top: 72px;
@@ -26,8 +19,6 @@
       .cb2 {
         background: color: #91898f;
        color: #73155a;
-        border-radius: 1rem;
-        border: 1px solid transparent;
         margin-top: 20px;
         margin: 60px;
         margin-left: 20px;
